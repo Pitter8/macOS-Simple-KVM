@@ -1,2 +1,2 @@
-sudo ./driverctl/driverctl --nosave set-override 0000:00:14.0 vfio-pci
+sudo ./driverctl/driverctl --nosave set-override 0000:00:12.0 vfio-pci
 sudo ./macOS.sh
